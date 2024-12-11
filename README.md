@@ -49,7 +49,7 @@ Quer ajudar a tornar este projeto ainda melhor? Siga os passos abaixo:
 
 1. Faça um fork do projeto:  
    ```bash  
-   git clone https://github.com/renanboeni/Calculadora-tilizando-Flet.git
+   git clone https://github.com/renanboeni/Calculadora-utilizando-Flet.git
    ```  
 
 2. Crie uma nova branch para sua feature:  
