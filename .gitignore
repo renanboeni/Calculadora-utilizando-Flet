@@ -1,0 +1,8 @@
+# Ignorar a pastas específicas
+build/
+dist/
+icon/
+storage/
+
+# Ignorar arquivos específicos
+calculadora.spec
